@@ -72,4 +72,8 @@ _[Ss]cripts
 *.dll
 *.nupkg
 *.ncrunchsolution
-*.dot[Cc]over
+*.dot[Cc]over
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml

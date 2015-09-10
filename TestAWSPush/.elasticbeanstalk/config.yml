@@ -1,0 +1,9 @@
+branch-defaults:
+  default:
+    environment: mwtestapplication-env
+global:
+  application_name: TestApplication
+  default_platform: 64bit Windows Server Core 2012 R2 running IIS 8.5
+  default_region: us-west-2
+  profile: eb-cli
+  sc: null
